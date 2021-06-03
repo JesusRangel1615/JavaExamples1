@@ -40,14 +40,5 @@ public class Main {
 			System.out.print("\n");
 
 		}
-		
-		/**	
-		customer1.add(Liz);
-
-		op.setCustomerList(customer1);
-		
-		System.out.println(op.getCustomerList());
-		
-		*/
 	}
 }
